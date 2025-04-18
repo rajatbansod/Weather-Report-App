@@ -40,3 +40,13 @@
    python main.py
 
 
+## 🌐 Setup API Key
+
+This app uses OpenWeatherMap for weather data.
+  ```bash
+Create an account and get your API key.
+Replace the API key in main.py:
+
+   
+
+
