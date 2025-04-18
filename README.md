@@ -28,17 +28,14 @@
    ```bash
    git clone https://github.com/your-username/weather-app.git
    cd weather-app
-
-
+   
 2. **Install dependencies**
    ```bash
    pip install pillow requests
 
-   
 3. **Run the App**
    ```bash
    python main.py
-
 
 ## 🌐 Setup API Key
 
@@ -48,9 +45,8 @@ This app uses OpenWeatherMap for weather data.
     ```bash
     weather_key = 'YOUR_API_KEY'
 
-
 ## 📁 Project Structure
-
+```bash
 weather-app/
 ├── img/                     # Folder for weather icons
 │   ├── 01d.png
