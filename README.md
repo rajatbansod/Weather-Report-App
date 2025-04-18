@@ -44,6 +44,7 @@
 This app uses OpenWeatherMap for weather data.
   - Create an account and get your API key.
   - Replace the API key in main.py:
+    
     ```bash
     weather_key = 'YOUR_API_KEY'
 
