@@ -45,6 +45,36 @@
 This app uses OpenWeatherMap for weather data.
   - Create an account and get your API key.
   - Replace the API key in main.py:
-```bash
-   weather_key = 'YOUR_API_KEY'
+    ```bash
+    weather_key = 'YOUR_API_KEY'
+
+
+## 📁 Project Structure
+
+weather-app/
+├── img/                     # Folder for weather icons
+│   ├── 01d.png
+│   └── ...
+├── blue.jpg                # Background image
+├── get_weather_icons.py    # Script to download OpenWeatherMap icons
+├── main.py                 # Main GUI app
+└── README.md               # Project info
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
