@@ -26,15 +26,16 @@
 ## 📦 Installation
 
 1. **Clone the repository**
+   
    ```bash
    git clone https://github.com/your-username/weather-app.git
    cd weather-app
    
-2. **Install dependencies**
+3. **Install dependencies**
    ```bash
    pip install pillow requests
 
-3. **Run the App**
+4. **Run the App**
    ```bash
    python main.py
 
