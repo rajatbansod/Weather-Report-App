@@ -38,7 +38,6 @@
    ```bash
    python main.py
 
-
 ## 🌐 Setup API Key
 
 This app uses OpenWeatherMap for weather data.
@@ -46,7 +45,6 @@ This app uses OpenWeatherMap for weather data.
   - Replace the API key in main.py:
     ```bash
     weather_key = 'YOUR_API_KEY'
-
 
 ## 📁 Project Structure
     ```bash
@@ -59,7 +57,6 @@ This app uses OpenWeatherMap for weather data.
     ├── main.py                 # Main GUI app
     └── README.md               # Project info
 
-
 ## 💡 How It Works
 - User enters a city name
 - App fetches weather info via OpenWeatherMap API
@@ -68,7 +65,8 @@ This app uses OpenWeatherMap for weather data.
 
 ## ✨ Screenshot
 ![image alt](https://github.com/rajatbansod/Weather-Report-App/blob/main/Screenshot%202025-04-18%20122719.png)
-![image alt](https://github.com/rajatbansod/Weather-Report-App/blob/main/Screenshot%202025-04-18%20122701.png)
+
+![image alt](https://github.com/rajatbansod/Weather-Report-App/blob/main/Screenshot%202025-04-18%20122700.png)
 
 
 ## 🤝 Contributing
