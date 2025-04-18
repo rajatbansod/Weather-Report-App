@@ -43,10 +43,8 @@
 ## 🌐 Setup API Key
 
 This app uses OpenWeatherMap for weather data.
-  ```bash
-Create an account and get your API key.
-Replace the API key in main.py:
-
-   
-
+  - Create an account and get your API key.
+  - Replace the API key in main.py:
+```bash
+   weather_key = 'YOUR_API_KEY'
 
