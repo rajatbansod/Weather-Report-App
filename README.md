@@ -32,7 +32,4 @@
 
 2. Install dependencies
 
-bash
-Copy
-Edit
 pip install pillow requests
