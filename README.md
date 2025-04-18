@@ -74,7 +74,7 @@ Pull requests are welcome! For major changes, please open an issue first.
 
 
 ## 📄 License
-
+ ```bash
 ---
 
 Let me know if you want to include a `.gif` of the app running or tailor it further for publishing on GitHub Pages or as a Windows executable.
