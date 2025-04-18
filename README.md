@@ -30,7 +30,13 @@
    cd weather-app
 
 
-2. Install dependencies
-
+2. **Install dependencies**
+   ```bash
    pip install pillow requests
+
+   
+3. **Run the App**
+   ```bash
+   python main.py
+
 
