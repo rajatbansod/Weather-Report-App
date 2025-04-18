@@ -32,4 +32,5 @@
 
 2. Install dependencies
 
-pip install pillow requests
+   pip install pillow requests
+
