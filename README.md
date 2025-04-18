@@ -46,28 +46,32 @@ This app uses OpenWeatherMap for weather data.
     weather_key = 'YOUR_API_KEY'
 
 ## 📁 Project Structure
-```bash
-weather-app/
-├── img/                     # Folder for weather icons
-│   ├── 01d.png
-│   └── ...
-├── blue.jpg                # Background image
-├── get_weather_icons.py    # Script to download OpenWeatherMap icons
-├── main.py                 # Main GUI app
-└── README.md               # Project info
+    ```bash
+    weather-app/
+    ├── img/                     # Folder for weather icons
+    │   ├── 01d.png
+    │   └── ...
+    ├── blue.jpg                # Background image
+    ├── get_weather_icons.py    # Script to download OpenWeatherMap icons
+    ├── main.py                 # Main GUI app
+    └── README.md               # Project info
 
+## 💡 How It Works
+- User enters a city name
+- App fetches weather info via OpenWeatherMap API
+- The formatted result and relevant icon are displayed
 
+## ✨ Screenshot
+(Replace this with an actual screenshot of the app interface.)
 
+## 🤝 Contributing
+Pull requests are welcome! For major changes, please open an issue first.
 
+## 📄 License
 
+---
 
-
-
-
-
-
-
-
+Let me know if you want to include a `.gif` of the app running or tailor it further for publishing on GitHub Pages or as a Windows executable.
 
 
 
