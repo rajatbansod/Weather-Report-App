@@ -49,7 +49,7 @@ This app uses OpenWeatherMap for weather data.
     weather_key = 'YOUR_API_KEY'
 
 ## 📁 Project Structure
-    ```bash
+
     weather-app/
     ├── img/                     # Folder for weather icons
     │   ├── 01d.png
